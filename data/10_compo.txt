@@ -1,0 +1,87 @@
+[Informacje]
+Autor=Albert i Kordian
+Opis=wyrazy z³o¿one plus dodatki z kartki na której to by³o
+Ostatnia modyfikacja=08.04.2006
+
+[Do zapamiêtania]
+S³ówko1=Tak
+Miêdzy=-
+S³ówko2=Tak
+
+[Kolumny]
+1=1 Kolumna
+2=2 Kolumna
+
+[Dane]
+¿ó³wim tempem¤=¤at snail's pace
+be a wet blanket¤=¤be a killjoy
+podpieraæ œciany¤=¤be a wallflower
+wczeœniej, z wyprzedzeniem¤=¤beforehand
+³amistrajk¤=¤blackleg
+rzeŸ¤=¤bloodbath
+mól ksi¹¿kowy¤=¤bookworm
+zaæmienie umys³u¤=¤brainstorm
+burza mózgów¤=¤brainstorming
+ktoœ wœcibski, intrygant¤=¤busybody
+krótka drzemka¤=¤catnap
+inherit¤=¤come into
+wyraz z³o¿ony¤=¤compound
+zawieraæ¤=¤contain
+papuga "zgapiacz"¤=¤copycat
+podstawa, kamieñ wêgielny¤=¤cornerstone
+appear¤=¤crop up
+œmia³ek¤=¤daredevil
+nieprzekraczalny termin¤=¤deadline
+impas, œlepa uliczka¤=¤deadlock
+wal¹cy siê¤=¤decrepit
+obmyœlaæ¤=¤devise
+oddanie¤=¤devotion
+przejawiaæ prawdziwe zainteresowanie w¤=¤display a true interest in
+przejawiaæ szczere zainteresowanie sztuk¹¤=¤display a true interest in art
+wykonywaæ wyczyny kaskaderskie¤=¤do stunts
+wszystko idzie g³adko¤=¤everything goes smoothly
+akcyza¤=¤excise
+badacz, eksplorator¤=¤explorer
+brzydactwo¤=¤eyesore
+reakcja, sprzê¿enie zwrotne¤=¤feedback
+dar niebios¤=¤godsend
+odprawa¤=¤golden handshake
+zó³todziób¤=¤greenhorn
+fryzura¤=¤hairdo
+niebezpieczne wyczyny¤=¤hazardous feats
+zawziêty, nieustêpliwy¤=¤headstrong
+okres rozkwitu¤=¤heyday
+intelektualista¤=¤highbrow
+w du¿ym skrócie¤=¤in a nutshell
+z wdziêcznoœci za¤=¤in gratitude for
+dziedziczyæ¤=¤inherit
+kamieñ milowy, punkt orientacyjny¤=¤landmark
+prowadziæ ¿ycie w biedzie¤=¤live one's life in poverty
+lojalnoœæ¤=¤loyalty
+fail sth¤=¤make a mess of sth
+wi¹zaæ koniec z koñcem¤=¤make ends meet
+zgnieœæ kogoœ na miazgê¤=¤make mincemeat of sb
+wtr¹caæ siê do¤=¤meddle in
+manipulowaæ przy¤=¤meddle with
+miêso mielone¤=¤mincemeat
+psotny figlarny¤=¤mischievous
+³upina orzecha¤=¤nutshell
+na skraju nêdzy¤=¤on the breadline
+pokojowe negocjacje¤=¤peace talks
+pu³apka¤=¤pitfall
+spisek¤=¤plot
+sekta religijna¤=¤religious sect
+take after¤=¤resemble
+szanowany¤=¤respectable
+komplikacja, niepowodzenie, zahamowanie¤=¤setback
+niedostatek "ankament" :D¤=¤shortcoming
+anemik œlamazara¤=¤slowcoach
+gruntowna wiedza¤=¤sound knowledge
+kamienica¤=¤tenement block
+gruntowny¤=¤thorough
+zmieniaæ w¤=¤turn into
+nieoczekiwany przyp³yw pieniêdzy¤=¤windfall
+wycofaæ¤=¤withdraw
+knuæ¤=¤be up to
+obmyœlanie, wymyœlanie¤=¤devisal
+

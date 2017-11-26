@@ -1,27 +1,25 @@
-#ifndef BASE_H
-#define BASE_H
+#ifndef GAME_H
+#define GAME_H
 
 #include <iostream>     //drukowanie na stdout
-#include <string>       //obsluga slowek
 #include <fstream>      //wczytywanie bazy z pliku
 #include <vector>       //obsluga bazy w pamieci
 #include <algorithm>    //fill
 #include <cstdlib>      //srand() rand() //moze zastap boostem w przyszlosci
 #include <ctime>        //rand(time(0)) 
 using namespace std;
+#include "Record.h"
 
-const int LJEZYKOW(2);
 const char ASTER(-92);
 
-class Base{
+class Game{
  public:
-  Base();
-  ~Base(){}
+  Game();
+  ~Game(){}
   void load(ifstream& file);
   void play();
  private:
-  vector<vector<string> > words;
-  vector<vector<int> > stat;
+  vector<Record> base;
   int size;      //Rozmiar bazy
   int tsize;     // Ilosc slowek do powtorki w tej turze
   int difr;      // Ilosc pozostalych slowek

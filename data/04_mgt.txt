@@ -1,0 +1,80 @@
+[Informacje]
+Autor=Albert
+Opis=
+Ostatnia modyfikacja=24.02.2006
+
+[Do zapamiêtania]
+S³ówko1=Tak
+Miêdzy=-
+S³ówko2=Tak
+
+[Kolumny]
+1=1 Kolumna
+2=2 Kolumna
+
+[Dane]
+gadka¤=¤gab
+Ÿle wychowany¤=¤ill-mannered
+przezwyciê¿aæ¤=¤surmount
+nie do pokonania¤=¤insurmountable
+udar mózgu¤=¤stroke
+udar cieplny¤=¤heat stroke
+zamkniêty w sobie¤=¤withdrawn
+zamykaæ siê w sobie¤=¤withdraw into o.s.
+wycofywaæ siê¤=¤withdraw
+dziecinny¤=¤childish
+kompleks przeœladowczy¤=¤persecution complex
+przeœladowanie¤=¤persecution
+ch³op¤=¤peasant
+prostak na "l"¤=¤lout
+prostak na "s"¤=¤simpleton
+cham¤=¤brute
+prostak na "b"¤=¤boor
+gburowaty¤=¤boorish
+s³owo honoru¤=¤my word is my bond
+wiêŸ, obligacja¤=¤bond
+na cle¤=¤in bond
+napaœæ z pobiciem¤=¤assault and battery
+s³u¿yæ za przyzwoitkê¤=¤play gooseberry
+grubas (od s³odyczy)¤=¤fatty
+grubas (od fast foodów)¤=¤fatso
+wiedŸma¤=¤hag
+nadstawiaæ uszu¤=¤prick up one's ears
+uk³ucie k³uæ nak³uwaæ¤=¤prick
+z³oœliwy¤=¤malicious
+z³oœliwy (termin medyczny)¤=¤malignant
+pod³y¤=¤mean
+sk¹py¤=¤stingy
+sk¹py na "m"¤=¤miserly
+sk¹py (strój)¤=¤scant
+spe³niony zaspokojony¤=¤fulfilled
+zbieg uciekinier¤=¤fugitive
+wypychaæ¤=¤hustle
+zgie³k¤=¤hustle and bustle
+krz¹taæ siê krz¹tanina¤=¤bustle
+gwarny ruchliwy¤=¤bustling
+niespokojny¤=¤restless
+pisk piszczeæ¤=¤cheep
+puszczaæ farbê (wygadaæ siê)¤=¤spill the beans
+puœciæ parê z ust¤=¤blow the whistle
+ani mru-mru¤=¤mum's the word
+nie puszczaæ pary z ust¤=¤to keep mum
+trzymaæ gêbê na k³ódkê¤=¤to keep one's mouth shut
+k³ódka¤=¤padlock
+pieg¤=¤freckle
+rzeœki energiczny¤=¤brisk
+szybki spacer¤=¤brisk walk
+niesprzyjaj¹cy nieprzychylny¤=¤unfovourable
+sêdzia arbiter sêdziowaæ¤=¤umpire
+tam i z powrotem¤=¤back and forth
+ma³o powiedziane¤=¤that's an understatement
+niedopowiedzenie niedomówienie¤=¤uderstatement
+ra¿¹cy krzycz¹cy¤=¤blatant
+niesprawiedliwoœæ¤=¤injustice
+zdaæ siê na czyj¹œ ³askê¤=¤to be at the mercy
+przestarza³y¤=¤outdated
+jedynie wy³¹cznie¤=¤solely
+przyrz¹d urz¹dzenie¤=¤device
+szarpniêcie klucz francuski¤=¤wrench
+ustawiaæ¤=¤align
+

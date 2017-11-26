@@ -1,0 +1,69 @@
+[Informacje]
+Autor=Kordian
+Opis=Words and Phrases 2 strony 240, 241
+Ostatnia modyfikacja=07.04.2006
+
+[Do zapamiêtania]
+S³ówko1=Tak
+Miêdzy=-
+S³ówko2=Tak
+
+[Kolumny]
+1=1 Kolumna
+2=2 Kolumna
+
+[Dane]
+Ÿle siê zachowywaæ¤=¤misbehave
+w areszcie¤=¤in detention
+bez ¿artów¤=¤in earnest
+z góry (fig.)¤=¤in advance
+strajkowaæ¤=¤be on strike
+solidarnie¤=¤in sympathy
+w porównaniu¤=¤in comparison
+w pewien sposób¤=¤in a way
+byæ odpowiedzialnym za | rz¹dziæ¤=¤be in charge of
+w praktyce¤=¤in practice
+w¹tpilwy, w¹tpi¹cy (i...¤=¤in doubt
+wahaæ siê¤=¤hesitate
+w odpowiedzi na¤=¤in response to
+zostaæ wylanym (g...¤=¤get the sack
+depress sb¤=¤get sb down
+you can't ignore it¤=¤there's no getting away from it
+ponury, przygnêbiaj¹cy¤=¤gloomy
+be dismissed¤=¤be laid off
+take revenge¤=¤get one's own back
+accelerate (g...¤=¤get up speed
+porozumieæ siê¤=¤get the idea across
+znaleŸæ (coœ), pozyskaæ (kogoœ)¤=¤get hold of
+bankowo (n...¤=¤no doubt
+postawmy sprawê jasno¤=¤let's get it straight
+pozwalaæ komuœ na wszystko¤=¤let sb get away with murder
+pozbyæ siê, otrz¹sn¹æ siê¤=¤shake off
+przyda³o by mi siê¤=¤I could do with
+wina (nie chodzi o porzeczkowe;p)¤=¤guilt
+z tego co wiesz (f...¤=¤for all you know
+s¹ szanse ¿e¤=¤chances are
+bez cienia zw¹tpienia¤=¤beyond the shadow of a doubt
+wiedza powszechna¤=¤common knowledge
+dobre, ale mog³oby byæ lepsze¤=¤as far as it goes
+to znaczy¤=¤that is to say
+zakonczyæ coœ¤=¤see sth through
+coœ mia³o siê kiedyœ lepiej¤=¤sth has seen better days
+coœ ju¿ nie stworzy nam k³opotów¤=¤we've seen the last of sth
+zgadzaæ siê co do (s..¤=¤see eye to eye over
+wkurwiæ siê hardo¤=¤see red
+pozwalaæ na, zgadzaæ siê na¤=¤see one's way to
+rozumieæ ¿art¤=¤see the joke
+wszelkimi sposobami¤=¤by hook or by crook
+jak boga kocham¤=¤cross my heart and hope to die
+skumaæ (tak po d³u¿szym rozkminaniu)¤=¤see the light
+mieæ zwidy¤=¤see things
+byæ zielonym z zazdroœci¤=¤be green with envy
+raz na ruski rok¤=¤once in a blue moon
+traktowaæ po królewsku¤=¤give the red carpet treatment
+czuæ siê wpienionym¤=¤feel browned off
+obojêtnoœæ, bezw³adnoœæ¤=¤inertia
+zawroty g³owy¤=¤dizziness
+chwiaæ siê na nogach, nawijaæ (lit.)¤=¤reel
+pas bezw³adnoœciowy¤=¤inertia-reel seat belt
+

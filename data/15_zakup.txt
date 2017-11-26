@@ -1,0 +1,86 @@
+[Informacje]
+Autor=Albert
+Opis=
+Ostatnia modyfikacja=09.04.2006
+
+[Do zapamiêtania]
+S³ówko1=Tak
+Miêdzy=-
+S³ówko2=Tak
+
+[Kolumny]
+1=1 Kolumna
+2=2 Kolumna
+
+[Dane]
+sklep papierniczy¤=¤stationary shop
+apteka po³¹czona z drogeri¹¤=¤chemist's
+kiosk¤=¤newsagent
+sklep spo¿ywczy¤=¤grocer's
+przymierzalnia¤=¤fitting room
+paragon pokwitowanie¤=¤receipt
+wyprzeda¿¤=¤sale
+przeceniony¤=¤reduced
+po obni¿onej cenie¤=¤at reduced price
+sklep rybny¤=¤fishmonger's
+pchli targ¤=¤flea market
+centrum handlowe (s... p...¤=¤shopping precinct
+stragan¤=¤stall
+wyprzeda¿ rzeczy u¿ywanych¤=¤jumble sale
+ofiarowywaæ na¤=¤donate to
+jarmark bazar¤=¤bazaar
+okazja (przy kupnie)¤=¤bargain
+zwrot pieniêdzy¤=¤refund
+kolejka¤=¤queue
+pralnia chemiczna¤=¤dry-cleaner's
+przekaz bankowy¤=¤bank draft
+pobór przekaz¤=¤draft
+bankomat¤=¤cash dispenser
+wyprzedany¤=¤out of stock
+dobrze zaopatrzony¤=¤well-stocked
+lada¤=¤counter
+salon piêknoœci¤=¤beauty parlour
+operacja plastyczna¤=¤cosmetic surgery
+list polecony¤=¤registered letter
+rachunek bie¿¹cy¤=¤current account
+konto¤=¤account
+teczka¤=¤portfolio
+portmonetka¤=¤purse
+wysokoprocentowy napój alkoholowy¤=¤liquor
+sklep monopolowy¤=¤off-licence shop
+wózek (w sklepie)¤=¤trolley
+zni¿ka rabat¤=¤discount
+gwarancja¤=¤warranty
+czasopismo ilustrowane¤=¤glossy magazine
+powiêkszony rozszerzony¤=¤enlarged
+zapasowy¤=¤spare
+wywo³ywaæ film¤=¤develop
+odbitka¤=¤print
+lœni¹cy¤=¤glossy
+póŸniej potem¤=¤afterwards
+przeciekaæ¤=¤leak
+przebite ko³o - guma¤=¤flat
+kiœæ winogron¤=¤bunch of grapes
+bukiet¤=¤bouquet
+bochenek chleba¤=¤loaf of bread
+byczyæ siê obijaæ siê¤=¤loaf about
+rusz ³bem¤=¤use your loaf
+tabliczka czekolady¤=¤bar of chocolate
+puszka farby¤=¤tin of paint
+chusteczka higieniczka¤=¤tissue
+chusteczka do nosa¤=¤handkerchief
+zoobowi¹zanie¤=¤commitment
+pomiar przegl¹d¤=¤survey
+sieæ internetowa¤=¤network
+gwa³towny (r...¤=¤rapid
+przejmowaæ coœ¤=¤take over
+sklepikarz¤=¤shopkeeper
+s³oñ w sk³adzie porcelany¤=¤bull in china shop
+mówiæ ¿e wkurza Ciê to co do Ciebie mówi¹¤=¤drop dead
+dokuczaæ¤=¤hassle
+trzês¹cy siê¤=¤wobbly
+norka (takie zwierz¹tko)¤=¤mink
+nora (mieszkanie)¤=¤hovel
+nora (mysia)¤=¤hole
+nora (królicza)¤=¤burrow
+
