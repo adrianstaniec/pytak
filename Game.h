@@ -6,7 +6,7 @@
 #include <vector>       //obsluga bazy w pamieci
 #include <algorithm>    //fill
 #include <cstdlib>      //srand() rand() //moze zastap boostem w przyszlosci
-#include <ctime>        //rand(time(0)) 
+#include <ctime>        //rand(time(0))
 using namespace std;
 #include "Record.h"
 

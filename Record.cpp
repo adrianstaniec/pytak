@@ -4,7 +4,7 @@ Record::  Record(string word0,string word1,int stat0,int stat1){
   words[0]=word0;
   words[1]=word1;
   stat[0]=stat0;
-  stat[1]=stat1;  
+  stat[1]=stat1;
 }
 
 Record::Record(const Record& X){

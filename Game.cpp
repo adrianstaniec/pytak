@@ -1,6 +1,6 @@
 #include "Game.h"
 
-Game::Game(): 
+Game::Game():
   size(0), tsize(0), difr(0), left(0), drawed(0), previous(0) {
   srand(time(0));
 }
@@ -10,7 +10,7 @@ void Game::load(ifstream& file){
   distributor=ASTER;
   distributor+='=';
   distributor+=ASTER;
-  
+
   while(1){
     getline(file,line);
     //      cout << line << endl;
@@ -28,7 +28,7 @@ void Game::load(ifstream& file){
     if(mark==(signed int) string::npos){
       break;
     }
-    tmp = line.substr(mark+3);    
+    tmp = line.substr(mark+3);
     Record brandnew(line.substr(0,mark),tmp.erase(tmp.length()-1),1,0);
     base.push_back(brandnew);
 //     cout << "1: " << (base.back())[0] << endl;
@@ -101,7 +101,7 @@ void Game::reorganise(){
     if((*iterBig).howManyMore()){
   //if(base[i].howManyMore()){
       (*iterSmall)=(*iterBig);
-      
+
       //base[difr]=base[i];
       tsize+=(*iterBig).howManyMore();
       (*iterSmall).updateStats();
@@ -115,8 +115,8 @@ void Game::reorganise(){
     base.erase(iterErase);
   }
 
-  cout << "++: " << (size=difr) <<endl;
-  cout << "++: " << base.size() << endl;
+//   cout << "++: " << (size=difr) <<endl;
+//   cout << "++: " << base.size() << endl;
   return;
 }
 
