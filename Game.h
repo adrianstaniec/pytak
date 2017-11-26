@@ -1,26 +1,27 @@
-#ifndef GAME_H
-#define GAME_H
+#pragma once
 
-#include <iostream>     //drukowanie na stdout
-#include <fstream>      //wczytywanie bazy z pliku
-#include <vector>       //obsluga bazy w pamieci
-#include <algorithm>    //fill
-#include <cstdlib>      //srand() rand() //moze zastap boostem w przyszlosci
-#include <ctime>        //rand(time(0))
+#include <algorithm>  //fill
+#include <cstdlib>    //srand() rand() //moze zastap boostem w przyszlosci
+#include <ctime>      //rand(time(0))
+#include <fstream>    //wczytywanie bazy z pliku
+#include <iostream>   //drukowanie na stdout
+#include <vector>     //obsluga bazy w pamieci
 using namespace std;
+
 #include "Record.h"
 
-const char ASTER(-92);
+const char ASTER = '*';
 
-class Game{
+class Game {
  public:
   Game();
-  ~Game(){}
+  ~Game() {}
   void load(ifstream& file);
   void play();
+
  private:
   vector<Record> base;
-  int size;      //Rozmiar bazy
+  int size;      // Rozmiar bazy
   int tsize;     // Ilosc slowek do powtorki w tej turze
   int difr;      // Ilosc pozostalych slowek
   int left;      // Ilosc pozostalych roznych slowek
@@ -29,5 +30,3 @@ class Game{
   void reorganise();
   void showParams();
 };
-
-#endif

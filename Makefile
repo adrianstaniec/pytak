@@ -1,11 +1,17 @@
+ifeq ($(OS),Windows_NT)
+    EXE = exe
+else
+    EXE = out
+endif
+
 OBJS = Pytak.o Game.o Record.o
 CC = g++
 DEBUG = -g
-CFLAGS = -Wall -c $(DEBUG)
-LFLAGS = -Wall $(DEBUG)
+LFLAGS = -Wall -Wextra -Wpedantic -std=c++14 $(DEBUG)
+CFLAGS = $(LFLAGS) -c
 
-pytak.exe : $(OBJS)
-	$(CC) $(LFLAGS) $(OBJS) -o pytak.exe
+pytak.$(EXE) : $(OBJS)
+	$(CC) $(LFLAGS) $(OBJS) -o pytak.$(EXE)
 
 Record.o : Record.cpp Record.h
 	$(CC) $(CFLAGS) Record.cpp
@@ -17,4 +23,6 @@ Pytak.o : Pytak.cpp Game.cpp Game.h
 	$(CC) $(CFLAGS) Pytak.cpp
 
 clean:
-	rm *.o pytak.exe -f
+	rm *.o -f
+	rm pytak.exe -f
+	rm pytak.out -f

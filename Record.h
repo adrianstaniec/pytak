@@ -1,17 +1,16 @@
-#ifndef RECORD_H
-#define RECORD_H
+#pragma once
 
-#include <string>       //obsluga slowek
+#include <string>  //obsluga slowek
 using namespace std;
 
 const int LJEZYKOW(2);
 
-class Record{
+class Record {
  public:
-  Record(){}
-  Record(string word0,string word1,int stat0,int stat1);
+  Record() {}
+  Record(string word0, string word1, int stat0, int stat1);
   Record(const Record& X);
-  ~Record(){}
+  ~Record() {}
   string& operator[](int x);
   void oneMoreTime();
   bool doneCorrectly();
@@ -19,9 +18,8 @@ class Record{
   int howManyMore();
   int howManyNow();
   int isItDone();
+
  private:
   string words[2];
   int stat[2];
 };
-
-#endif
